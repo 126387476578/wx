@@ -1,0 +1,129 @@
+{
+  "南京市": {
+    "adcode": "320100",
+    "longitude": 118.796669,
+    "latitude": 32.059347,
+    "scenic_spots": [
+      {
+        "name": "总统府",
+        "level": "5A",
+        "longitude": 118.777,
+        "latitude": 32.060
+      },
+      {
+        "name": "中山陵",
+        "level": "5A",
+        "longitude": 118.84,
+        "latitude": 32.13
+      },
+      {
+        "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+        "level": "5A",
+        "longitude": 118.79,
+        "latitude": 32.05
+      },
+      {
+        "name": "明孝陵景区",
+        "level": "4A",
+        "longitude": 118.86,
+        "latitude": 32.12
+      },
+      {
+        "name": "夫子庙-秦淮风光带",
+        "level": "4A",
+        "longitude": 118.78,
+        "latitude": 32.01
+      },
+      {
+        "name": "南京博物院",
+        "level": "4A",
+        "longitude": 118.8,
+        "latitude": 32.04
+      },
+      {
+        "name": "牛首山文化旅游区",
+        "level": "4A",
+        "longitude": 118.77,
+        "latitude": 31.98
+      },
+      {
+        "name": "新街口",
+        "level": "无",
+        "longitude": 118.78,
+        "latitude": 32.05
+      },
+      {
+        "name": "秦淮河",
+        "level": "无",
+        "longitude": 118.79,
+        "latitude": 32.02
+      },
+      {
+        "name": "朝天宫",
+        "level": "4A",
+        "longitude": 118.77,
+        "latitude": 32.03
+      },
+      {
+        "name": "瞻园",
+        "level": "4A",
+        "longitude": 118.78,
+        "latitude": 32.01
+      },
+      {
+        "name": "老门东历史街区",
+        "level": "4A",
+        "longitude": 118.79,
+        "latitude": 32.04
+      },
+      {
+        "name": "中华门",
+        "level": "4A",
+        "longitude": 118.78,
+        "latitude": 32.02
+      },
+      {
+        "name": "玄武湖",
+        "level": "无",
+        "longitude": 118.8,
+        "latitude": 32.05
+      },
+      {
+        "name": "南京城墙",
+        "level": "4A",
+        "longitude": 118.78,
+        "latitude": 32.03
+      },
+      {
+        "name": "南京海底世界",
+        "level": "4A",
+        "longitude": 118.79,
+        "latitude": 32.06
+      },
+      {
+        "name": "南京大报恩寺",
+        "level": "4A",
+        "longitude": 118.78,
+        "latitude": 32.04
+      },
+      {
+        "name": "南京鸡鸣寺",
+        "level": "4A",
+        "longitude": 118.79,
+        "latitude": 32.05
+      },
+      {
+        "name": "汤山温泉",
+        "level": "4A",
+        "longitude": 118.81,
+        "latitude": 32.07
+      },
+      {
+        "name": "栖霞山风景区",
+        "level": "5A",
+        "longitude": 118.82,
+        "latitude": 32.08
+      }
+    ]
+  }
+}
